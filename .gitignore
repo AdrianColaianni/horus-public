@@ -1,0 +1,3 @@
+/target
+.env
+/src/queries/ip2*
