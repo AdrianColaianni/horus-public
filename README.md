@@ -1,5 +1,7 @@
 # HORUS
 
+![HORUS](/horus.webp)
+
 HORUS is an integration platform that automates many of the junior analyst events at the Clemson Cyber Security Operations Center.  I wrote it during my summer there and it is still being actively used.  This public mirror has all the sensitive parts removed, including test cases.  A brief description of the tools are below.
 
 ## Duplex
